@@ -149,5 +149,4 @@ Sample inputs & outputs:
   - OpenCV, PyTorch, Numpy, Matplotlib  
 
 ---
-
-🚀 *Happy coding!* If you like this repo, ⭐ it on GitHub and feel free to contribute.  
+ 
