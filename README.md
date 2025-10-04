@@ -131,15 +131,6 @@ Sample inputs & outputs:
 
 ---
 
-## 💡 Tips & Troubleshooting  
-
-- **Low accuracy?** → Try fine-tuning with `nano_best_1.pt` instead of YOLO default  
-- **Slow inference?** → Use YOLOv8n (nano) or skip frames (`process every 2nd/3rd frame`)  
-- **Out of memory errors?** → Reduce input resolution or batch size  
-- **GPU not used?** → Check CUDA installation & `torch.cuda.is_available()`  
-
----
-
 ## 🚧 Future Improvements  
 
 - Add more activities (e.g., sports actions, office tasks)  
